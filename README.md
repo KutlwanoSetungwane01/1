@@ -10,6 +10,10 @@ To-Do List application** written in Python.
 
 ## How to Run
 
+![Project Screenshot](https://github.com/KutlwanoSetungwane01/1/blob/main/Screenshot%201.PNG?raw=true)
+![Project Screenshot](https://github.com/KutlwanoSetungwane01/1/blob/main/Screenshot%202.PNG?raw=true)
+![Projecr Screenshot](https://github.com/KutlwanoSetungwane01/1/blob/main/Screenshot%203.PNG?raw=true)
+
 ### Clone the Repository
 First, download the project to your local machine using Git:
 ```bash
