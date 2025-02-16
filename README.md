@@ -6,7 +6,7 @@ To-Do List application** written in Python.
 - Add new tasks  
 - View all tasks  
 - Remove completed tasks  
-- Saves tasks to a file (`tasks.txt`)  
+- Saves tasks to a file  
 
 ## How to Run
 -Downloaded  the recomended python extension to run the program
