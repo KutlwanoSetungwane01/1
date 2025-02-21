@@ -10,6 +10,7 @@ To-Do List application** written in Python.
 
 ## How to Run
 -Downloaded  the recomended python extension to run the program
+-Run it on codespaces
 
 ![Project Screenshot](https://github.com/KutlwanoSetungwane01/1/blob/main/Screenshot%201.PNG?raw=true)
 ![Project Screenshot](https://github.com/KutlwanoSetungwane01/1/blob/main/Screenshot%202.PNG?raw=true)
